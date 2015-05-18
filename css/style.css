@@ -1,0 +1,14 @@
+body {
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    background-color:#5a5a5a;
+}
+#spiders {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    max-width:100%;
+}
