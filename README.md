@@ -1,10 +1,10 @@
 # arrow-spider
 
-.وجدت هذا التأثير في هذا [الموقع](http://whois.domaintools.com/)، قمت بإستخراجه ونشره للإفادة فقط
+It has been extracted from this site http://whois.domaintools.com/
 
-رخصة الاستخدام
+License
 ------------
 
-MIT تم ترخيصها تحت رخصة 
+Released under the MIT License
 
-حقوق النشر (c) 2015 [AliOsm](http://fb.com/Ali.L.Malak)
+Copyright (c) 2015 [AliOsm](http://fb.com/Ali.L.Malak)
